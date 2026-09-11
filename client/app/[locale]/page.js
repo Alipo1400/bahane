@@ -1,6 +1,7 @@
 import EventSlider from "@/components/banners/EventProduct";
 import CategorySlider from "@/components/banners/CategorySlider";
 import CountPlusBox from "@/components/UI/CountPlusBox";
+import MovieList from "@/components/movie/MovieList";
 
 export default function Home() {
   return (
@@ -23,6 +24,8 @@ export default function Home() {
         
         <CountPlusBox />
     
+     <br />
+     <MovieList />
     </>
   );
 }

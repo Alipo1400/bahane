@@ -16,18 +16,20 @@
   },
   "SliderProduct": {
     "PintoBeansTitle": "Canned Pinto Beans",
-    "PintoBeansSummary": "Cooked and ready-to-eat beans for a quick and easy meal",
-    "PintoBeansDescription": "No need for soaking or hours of cooking! These canned beans contain large, fully cooked beans that are rich in protein and flavor. Whether you want to make a bean stew, a vegetarian burger, or a protein-rich salad, simply open the can and enjoy.",
+    "PintoBeansSummary": "Cooked and ready-to-eat beans for a quick meal",
+    "PintoBeansDescription": "No need for soaking and hours of cooking! These canned pinto beans are made with large, fully cooked beans, rich in protein and fiber. Whether you want to make a bean stew, a veggie burger, or a protein-packed salad, simply open the can and enjoy.",
+
     "SweetCornTitle": "Canned Sweet Corn",
-    "SweetCornSummary": "Sweet and crunchy corn kernels, fresh and delicious",
-    "SweetCornDescription": "This canned sweet corn is made from large, golden kernels that preserve their natural sweetness and flavor. With no added sugar or preservatives, it is perfect for salads, corn soup, omelets, or even as a simple side dish.",
+    "SweetCornSummary": "Sweet, crunchy and fresh corn kernels",
+    "SweetCornDescription": "This canned sweet corn is made from large, golden kernels that preserve their natural sweetness. With no added sugar or preservatives, it is perfect for salads, corn soup, omelets, or simply as an easy side dish.",
+
     "PeasTitle": "Canned Green Peas",
-    "PeasSummary": "Crisp and vibrant green peas that bring the taste of spring to your kitchen",
-    "PeasDescription": "These green peas are processed at the peak of freshness to preserve their beautiful green color and firm texture. Rich in vitamin C and iron, they are a quick and nutritious choice for pea soup, chicken dishes, béchamel sauce, or even a simple salad."
+    "PeasSummary": "Tender, vibrant green peas that bring a taste of spring to your kitchen",
+    "PeasDescription": "These green peas are processed at the peak of freshness to preserve their beautiful green color and firm texture. Rich in vitamin C and iron, they are a quick and nutritious choice for pea soup, chicken dishes, béchamel sauce, or a simple salad."
   },
   "Footer": {
     "CallFactory": "Factory Phone",
-    "ManaggerBussines": "Senior Business Manager",
+    "ManaggerBussines": "Chief Commercial Manager",
     "SellMangger": "Sales Manager",
     "Address": "Address",
     "AddressText": "Tehran, Robat Karim, Azadegan Boulevard, Mofatteh Street, No. 19",
@@ -35,11 +37,12 @@
   },
   "BlogPage": {
     "CannedMushroomsTitle": "Canned Mushrooms",
-    "CannedMushroomsCaption": "How to Use Canned Mushrooms",
+    "CannedMushroomsCaption": "How to use canned mushrooms",
     "CannedLentilsTitle": "Canned Lentils",
-    "CannedLentilsCaption": "How to Use Canned Lentils",
+    "CannedLentilsCaption": "How to use canned lentils",
     "CannedChickpeasTitle": "Canned Chickpeas",
-    "CannedChickpeasCaption": "How to Use Canned Chickpeas"
+    "CannedChickpeasCaption": "How to use canned chickpeas",
+    "PreparationMethod": "How to use our canned products"
   },
   "SliderCategory": {
     "TypesOfJam": "Types of Jam",
@@ -48,9 +51,10 @@
   },
   "AboutPage": {
     "JobPosition": "CEO",
-    "NameManager": "Ruhollah Jabraeili",
-    "TextManager1": "Amadeh Paz Food Products Manufacturing Group, operating under the brands Amadeh Paz, Bahaneh, and Mehran, began its activities in 1989 after obtaining the initial approval from the Tehran Province Department of Industry and Mining to establish a food manufacturing factory. The factory was fully operational by 1994.",
-    "TextManager2": "The company began its journey with a focus on meeting customer needs by producing high-quality products tailored to Iranian tastes. It has always been a trusted companion of Iranian families. Through entering both domestic and international markets, the company has successfully obtained various certifications and licenses, including manufacturing permits, health permits, standard certifications, and more."
+    "NameManager": "Rouhollah Jabraeili",
+    "TextManager1": "The Ready-to-Eat Food Products Group, operating under the brands Amadeh Paz, Bahaneh, and Mehran, began its activities in 1989 after obtaining the initial approval from the Tehran Provincial Department of Industry and Mines to establish a food production factory. The factory became fully operational in 1994.",
+    "ProductPart": "The Ready-to-Eat Food Products Group, operating under the brands Amadeh Paz, Bahaneh, and Mehran, began its activities in 1989 after obtaining the initial approval from the Tehran Provincial Department of Industry and Mines to establish a food production factory. The factory became fully operational in 1994 and began supplying customers with high-quality products tailored to Iranian tastes. As a trusted companion to Iranian families, the group successfully entered domestic and international markets and obtained licenses and certifications including production, health, and standard approvals for its products.",
+    "TextManager2": "The company began supplying customers with high-quality products tailored to Iranian tastes and has always been a trusted companion to Iranian families. Through entering domestic and international markets, it has successfully obtained production, health, and standard certifications for its products."
   },
   "Category": {
     "Pickles": "Pickles",
@@ -66,20 +70,28 @@
     "CannedLentils": "Canned Lentils",
     "CannedChickpeas": "Canned Chickpeas",
     "StrawberryJam": "Strawberry Jam",
-    "CherryJam": "Cherry Jam",
-    "SourCherryJam": "Sour Cherry Jam",
+    "CherryJam": "Sour Cherry Jam",
+    "SourCherryJam": "Cherry Jam",
     "PickledOlives": "Pickled Olives",
     "PickledCucumber": "Pickled Cucumbers",
     "PickledCabbage": "Pickled Cabbage"
   },
   "CountPlusNumber": {
     "TitleCompanies": "Partner Companies",
-    "DisCompanies": "Collaboration with reputable companies",
-    "TitleClient": "Clients",
+    "DisCompanies": "Working with trusted organizations",
+    "TitleClient": "Customers",
     "DisClient": "Trusted by thousands of customers",
-    "TitleProduct": "Product Variety",
+    "TitleProduct": "Product Varieties",
     "DisProduct": "A wide range of products",
     "TitleYear": "Years of Experience",
-    "DisYear": "Experience and expertise in this field"
+    "DisYear": "Experience and expertise in the industry"
+  },
+  "Move": {
+    "Title1": "Are You Looking for Bahaneh?",
+    "Caption1": "Premium Bahaneh food products made from the finest ingredients sourced from farms across Iran",
+    "Title2": "Our Products",
+    "Caption2": "Our variety of tomato pastes, jams, and canned foods is distributed across store shelves throughout Iran.",
+    "Title3": "Our Production Line",
+    "Caption3": "A fully sterile and automated production line that ensures the highest hygiene standards and operates under health and safety certifications."
   }
 }

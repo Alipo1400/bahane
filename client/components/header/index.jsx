@@ -89,7 +89,7 @@ const index = () => {
       </div>
       <Toolbar />
       <Chat />
-      <div className="z-20 hidden sm:inline-block fixed bottom-5 ltr:left-8 rtl:right-8">
+      <div className="z-40 hidden sm:inline-block fixed bottom-5 ltr:left-8 rtl:right-8">
         <div className="relative size-16 rounded-full bg-primary">
           <div
             className="
@@ -99,7 +99,7 @@ const index = () => {
       animate-[ripple_1s_ease-out_infinite]
     "
           />
-          <div className="relative size-full z-10">
+          <div className="relative size-full z-40">
             <ChatCustomEvent className="size-10  text-white" />
           </div>
         </div>

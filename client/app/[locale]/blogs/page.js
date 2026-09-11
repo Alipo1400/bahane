@@ -6,6 +6,7 @@ import { useTranslations } from "next-intl";
 
 function Blogs() {
     const BlogT = useTranslations('BlogPage');
+    const ProductT = useTranslations('Product');
     const Data = [
         {
             title: BlogT("CannedMushroomsTitle"),
@@ -27,6 +28,27 @@ function Blogs() {
             backPhoto: "/photo/food_2.png",
             cannedPhoto: "/products/canned_chickpeas.png",
             color: "#f4b219"
+        },
+        {
+            title: ProductT("Peas"),
+            caption: BlogT("PreparationMethod"),
+            backPhoto: "/photo/food_1.png",
+            cannedPhoto: "/products/Peas.png",
+            color: "#1c4f0c"
+        },
+        {
+            title: ProductT("PintoBeans"),
+            caption: BlogT("PreparationMethod"),
+            backPhoto: "/photo/food_3.png",
+            cannedPhoto: "/products/pinto-beans.png",
+            color: "#981c1d"
+        },
+        {
+            title: ProductT("SweetCorn"),
+            caption: BlogT("PreparationMethod"),
+            backPhoto: "/photo/food_1.png",
+            cannedPhoto: "/products/sweet-corn.png",
+            color: "#fbd81a"
         }
     ]
     return (

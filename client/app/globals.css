@@ -5,7 +5,9 @@
 @custom-variant dark (&:where(.dark, .dark *));
 
 /* توکن‌های پیش‌فرض = روشن */
-
+ .divv {
+  @apply text-gray-900 ;
+ }
 @layer base {
   :root {
     --color-primary: #1970f0;
@@ -24,12 +26,8 @@
     --house-category-bgc: #ccd5ae;
     --toy-category-bgc: #cce3de;
     --stationery-category-bgc: #fbb13c;
-    --color-text-base: rgb(0, 0, 0);
+    --color-text-base: #1f2937;
     /* #424750*/
-    --color-text-base: rgb(0, 0, 0);
-    /*#6b7280*/
-    --color-text-base: rgb(0, 0, 0);
-    /*#fff*/
     --font-family: iranyekan, "IRANSans", "Tahoma";
   }
 

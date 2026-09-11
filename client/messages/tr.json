@@ -16,18 +16,20 @@
   },
   "SliderProduct": {
     "PintoBeansTitle": "Konserve Barbunya",
-    "PintoBeansSummary": "Pişmiş ve kullanıma hazır barbunya, hızlı ve pratik yemekler için",
-    "PintoBeansDescription": "Artık fasulyeleri saatlerce suda bekletmeye ve pişirmeye gerek yok! Bu konserve, protein ve lezzet açısından zengin, iri taneli ve tamamen pişmiş barbunyalar içerir. İster barbunya yemeği, ister vejetaryen burger veya protein açısından zengin bir salata hazırlayın, kutuyu açmanız yeterli.",
+    "PintoBeansSummary": "Pişmiş ve kullanıma hazır, hızlı yemekler için ideal fasulye",
+    "PintoBeansDescription": "Artık fasulyeleri saatlerce suda bekletip pişirmenize gerek yok! Bu konserve barbunya, tamamen pişirilmiş iri tanelerden hazırlanır ve protein ile lif açısından zengindir. Fasulye yemeği, vejetaryen burger veya protein açısından zengin bir salata hazırlamak için tek yapmanız gereken kutuyu açıp kullanmaktır.",
+
     "SweetCornTitle": "Konserve Tatlı Mısır",
-    "SweetCornSummary": "Tatlı ve çıtır mısır taneleri, taze ve lezzetli",
-    "SweetCornDescription": "Bu konserve tatlı mısır, doğal tatlılığını ve lezzetini koruyan iri ve altın sarısı mısır tanelerinden hazırlanır. İlave şeker ve koruyucu madde içermez. Salatalar, mısır çorbası, omlet veya yemeklerin yanında basit bir garnitür olarak mükemmeldir.",
+    "SweetCornSummary": "Tatlı, çıtır ve taze mısır taneleri",
+    "SweetCornDescription": "Bu konserve tatlı mısır, doğal tatlılığını koruyan iri ve altın renkli tanelerden hazırlanır. İlave şeker ve koruyucu içermez. Salatalar, mısır çorbası, omlet veya basit bir garnitür olarak kullanmak için idealdir.",
+
     "PeasTitle": "Konserve Bezelye",
-    "PeasSummary": "Çıtır ve canlı yeşil bezelyeler, baharın tadını mutfağınıza getirir",
-    "PeasDescription": "Bu bezelyeler, tazeliğin en yüksek olduğu dönemde işlenerek güzel yeşil renklerini ve diri dokularını korur. C vitamini ve demir açısından zengin olan bezelyeler; bezelye çorbası, tavuk yemekleri, beşamel sos veya basit bir salata için hızlı ve besleyici bir seçenektir."
+    "PeasSummary": "Mutfağınıza baharın lezzetini getiren yumuşak ve canlı yeşil bezelyeler",
+    "PeasDescription": "Bu bezelyeler en taze dönemlerinde işlenerek güzel yeşil renklerini ve diri dokularını korur. C vitamini ve demir açısından zengindir. Bezelye çorbası, tavuk yemekleri, beşamel sos veya basit salatalar için hızlı ve besleyici bir seçenektir."
   },
   "Footer": {
     "CallFactory": "Fabrika Telefonu",
-    "ManaggerBussines": "Kıdemli Ticaret Müdürü",
+    "ManaggerBussines": "Ticari Genel Müdür",
     "SellMangger": "Satış Müdürü",
     "Address": "Adres",
     "AddressText": "Tahran, Robat Karim, Azadegan Bulvarı, Mofatteh Caddesi, No: 19",
@@ -35,11 +37,12 @@
   },
   "BlogPage": {
     "CannedMushroomsTitle": "Konserve Mantar",
-    "CannedMushroomsCaption": "Konserve Mantar Nasıl Kullanılır?",
+    "CannedMushroomsCaption": "Konserve mantar nasıl kullanılır?",
     "CannedLentilsTitle": "Konserve Mercimek",
-    "CannedLentilsCaption": "Konserve Mercimek Nasıl Kullanılır?",
+    "CannedLentilsCaption": "Konserve mercimek nasıl kullanılır?",
     "CannedChickpeasTitle": "Konserve Nohut",
-    "CannedChickpeasCaption": "Konserve Nohut Nasıl Kullanılır?"
+    "CannedChickpeasCaption": "Konserve nohut nasıl kullanılır?",
+    "PreparationMethod": "Konserve ürünlerimiz nasıl kullanılır?"
   },
   "SliderCategory": {
     "TypesOfJam": "Reçel Çeşitleri",
@@ -49,8 +52,9 @@
   "AboutPage": {
     "JobPosition": "Genel Müdür",
     "NameManager": "Ruhollah Jabraeili",
-    "TextManager1": "Amadeh Paz Gıda Ürünleri Üretim Grubu, Amadeh Paz, Bahaneh ve Mehran markaları altında faaliyet göstermekte olup, gıda sanayi üretim tesisi kurmak amacıyla Tahran İl Sanayi ve Maden Müdürlüğünden gerekli ön onayı aldıktan sonra 1989 yılında faaliyetlerine başlamıştır. Fabrika 1994 yılında tamamen faaliyete geçmiştir.",
-    "TextManager2": "Şirket, müşteri ihtiyaçlarını karşılamak amacıyla İran damak tadına uygun, yüksek kaliteli ürünler üretmeye başlamıştır ve her zaman İran ailelerinin güvenilir bir parçası olmuştur. Şirket, iç ve dış pazarlara girerek üretim izinleri, sağlık izinleri, standart belgeleri ve diğer çeşitli sertifika ve ruhsatları başarıyla elde etmiştir."
+    "TextManager1": "Amadeh Paz, Bahaneh ve Mehran markalarıyla faaliyet gösteren Hazır Gıda Ürünleri Grubu, Tahran İl Sanayi ve Maden Müdürlüğü'nden gıda üretim fabrikası kurulması için gerekli ön onayı alarak 1989 yılında faaliyetlerine başlamıştır. Fabrika 1994 yılında tamamen faaliyete geçmiştir.",
+    "ProductPart": "Amadeh Paz, Bahaneh ve Mehran markalarıyla faaliyet gösteren Hazır Gıda Ürünleri Grubu, 1989 yılında faaliyetlerine başlamış ve 1994 yılında fabrikasını tamamen faaliyete geçirmiştir. Grup, İran tüketicilerinin damak zevkine uygun yüksek kaliteli ürünler sunmaya başlamış ve İran ailelerinin güvenilir bir markası olmuştur. Yerel ve uluslararası pazarlara girdikten sonra üretim, sağlık ve standart sertifikaları dahil olmak üzere gerekli lisans ve belgeleri başarıyla almıştır.",
+    "TextManager2": "Şirket, İran tüketicilerinin damak zevkine ve ihtiyaçlarına uygun yüksek kaliteli ürünler sunmaya başlamış ve her zaman İran ailelerinin güvenilir bir markası olmuştur. Yerel ve uluslararası pazarlara girişinin ardından ürünleri için gerekli üretim, sağlık ve standart sertifikalarını başarıyla almıştır."
   },
   "Category": {
     "Pickles": "Turşular",
@@ -73,13 +77,21 @@
     "PickledCabbage": "Lahana Turşusu"
   },
   "CountPlusNumber": {
-    "TitleCompanies": "İş Ortaklarımız",
-    "DisCompanies": "Güvenilir şirketlerle iş birliği",
-    "TitleClient": "Müşteriler",
-    "DisClient": "Binlerce müşterinin bize duyduğu güven",
+    "TitleCompanies": "İş Ortağı Şirketler",
+    "DisCompanies": "Güvenilir kuruluşlarla iş birliği",
+    "TitleClient": "Müşteri",
+    "DisClient": "Binlerce müşterinin bize güveni",
     "TitleProduct": "Ürün Çeşitliliği",
     "DisProduct": "Geniş ürün yelpazesi",
     "TitleYear": "Yıllık Deneyim",
-    "DisYear": "Bu alanda deneyim ve uzmanlık"
+    "DisYear": "Sektörde deneyim ve uzmanlık"
+  },
+  "Move": {
+    "Title1": "Bahaneh mi arıyorsunuz?",
+    "Caption1": "İran'ın en iyi çiftliklerinden temin edilen kaliteli hammaddelerle hazırlanan birinci sınıf Bahaneh gıda ürünleri",
+    "Title2": "Ürünlerimiz",
+    "Caption2": "Salça, reçel ve konserve ürünlerimiz İran genelindeki mağazaların raflarında yer almaktadır.",
+    "Title3": "Üretim Hattımız",
+    "Caption3": "En yüksek hijyen standartlarını sağlayan, tamamen steril ve otomatik üretim hattımız sağlık ve güvenlik standartlarına uygun olarak çalışmaktadır."
   }
 }

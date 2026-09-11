@@ -56,7 +56,8 @@ function CountPlusBox() {
                 border border-slate-200/70
                 bg-white
                 p-7
-                size-64
+                
+                size-72
                 shadow-sm
                 transition-all duration-500
                 hover:-translate-y-2
@@ -64,7 +65,7 @@ function CountPlusBox() {
                 hover:shadow-xl hover:shadow-blue-500/10
                   flex flex-col items-center justify-center
                 dark:border-slate-800
-                dark:bg-slate-900
+                dark:bg-slate-800
                 dark:hover:border-blue-900
               "
             >

@@ -203,7 +203,7 @@ export default function CategorySlider() {
                                             ease: [0.22, 1, 0.36, 1],
                                         }}
                                     >
-                                        <h2 style={{ textShadow: '2px 2px 4px rgba(0, 0, 0, 0.3)' }} className="text-3xl  text-white md:text-4xl font-bold">
+                                        <h2 style={{ textShadow: '2px 2px 4px rgba(0, 0, 0, 0.3)' }} className="text-3xl text-center  text-white md:text-4xl font-bold">
                                             {slides[activeIndex].title}
                                         </h2>
 

@@ -36,7 +36,7 @@ function Mannager() {
                             </div>
                         </div>
                     </div>
-                    <div className=" flex flex-col gap-6 md:p-0 px-5 pt-10 static md:absolute ltr:md:left-60  rtl:md:right-60">
+                    <div className=" flex flex-col gap-6 md:p-0 px-5 pt-10 static md:absolute ltr:md:left-68  rtl:md:right-68">
                         <motion.div
                             initial={{ opacity: 0, x: Move }}
                             whileInView={{ opacity: 1, x: 0 }}
