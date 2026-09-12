@@ -54,18 +54,20 @@ function Blogs() {
     return (
         <>
             <br /><br /><br /><br />
-            <div className="flex overflow-hidden  justify-center py-16 px-5 lg:gap-32 gap-20 w-full flex-wrap items-center" >
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 overflow-hidden  justify-center py-16 lg:px-36 px-7  gap-20 w-full flex-wrap items-center" >
                 {
                     Data.map((item, index) => {
                         return (
-                            <CardRaspy
-                                title={item.title}
-                                caption={item.caption}
-                                backPhoto={item.backPhoto}
-                                cannedPhoto={item.cannedPhoto}
-                                link={"/"}
-                                color={item.color}
-                            />
+                            <div className="w-full flex items-center justify-center">
+                                <CardRaspy
+                                    title={item.title}
+                                    caption={item.caption}
+                                    backPhoto={item.backPhoto}
+                                    cannedPhoto={item.cannedPhoto}
+                                    link={"/"}
+                                    color={item.color}
+                                />
+                            </div>
                         )
                     })
                 }
