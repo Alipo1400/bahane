@@ -86,31 +86,33 @@ function CategoryMenu({ className = '' }) {
 
     return (<>
         <Sidebar zIndex="40" isOpen={open} setOpen={setOpen} >
-            <div className="p-5 mt-3 font-bold text-3xl pr-10" >
-                {CategoryT(capitalizeFirst(category))}
-            </div>
-            <div className="px-2 gap-4 flex flex-col">
-                {categories[category]?.map((item, index) => {
-                    return (
-                        <div>
-                            <div key={index} className="p-3 bg-white flex rounded-4xl  dark:bg-gray-900 text-lg">
-                                <div className="w-28 h-28 rounded-4xl overflow-hidden">
-                                    <Image
-                                        className="size-full object-cover"
-                                        src={item.image}
-                                        width={200}
-                                        height={200}
-                                    />
+           <div className="p-5 mt-3 font-bold text-3xl pr-10">
+    {CategoryT(capitalizeFirst(category))}
+</div>
 
-                                </div>
-                                <div className="flex text-xl w-[calc(100%-112px)] justify-center font-bold items-center">
-                                    {item.name}
-                                </div>
-                            </div>
-                        </div>
-                    )
-                })}
+<div className="px-2 pb-16 gap-4 flex flex-col overflow-y-auto max-h-[calc(100vh-160px)]">
+    {categories[category]?.map((item, index) => {
+        return (
+            <div key={index}>
+                <div className="p-3 bg-white flex rounded-4xl dark:bg-gray-900 text-lg">
+                    <div className="w-28 h-28 rounded-4xl overflow-hidden shrink-0">
+                        <Image
+                            className="size-full object-cover"
+                            src={item.image}
+                            width={200}
+                            height={200}
+                            alt={item.name}
+                        />
+                    </div>
+
+                    <div className="flex text-xl w-[calc(100%-112px)] justify-center font-bold items-center">
+                        {item.name}
+                    </div>
+                </div>
             </div>
+        )
+    })}
+</div>
             {/* <div className="flex flex-col mt-12 px-6 " >
                 {itemsNav.map((item, index) => {
                     return (
