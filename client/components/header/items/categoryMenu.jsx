@@ -23,11 +23,12 @@ function CategoryMenu({ className = '' }) {
             { name: ProductT("PickledOlives"), image: "/probybg/1.png" },
         ],
         jams: [
-            { name: ProductT("StrawberryJam"), image: "/probybg/2.png" },
+            { name: ProductT("StrawberryJam"), image: "/probybg/sourcherry.JPG" },
         ],
         canned: [
             { name: ProductT("CannedChickpeas"), image: "/probybg/3.png" },
-            { name: ProductT("SweetCorn"), image: "/probybg/4.png" }
+            { name: ProductT("SweetCorn"), image: "/probybg/4.png" },
+             
 
         ]
     }
