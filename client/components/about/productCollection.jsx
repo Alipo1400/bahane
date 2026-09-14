@@ -19,19 +19,45 @@ function ProductCollection() {
 
                 </div>
             </div>
-            <div className="w-full md:w-2/3 flex items-center  mt-16 md:mt-0 text-base sm:text-lg">
-                <motion.span
-                    initial={{ opacity: 0 }}
-                    whileInView={{ opacity: 1}}
-                    viewport={{ once: true, amount: 0.2 }}
-                    transition={{
-                        duration: 0.8,
-                        ease: [0.22, 1, 0.36, 1],
-                    }}
-                >
-                    {AboutPageT("ProductPart")}
-                </motion.span>
-            </div>
+          <div className="w-full md:w-2/3 flex items-center mt-16 md:mt-0">
+    <motion.div
+        initial={{ opacity: 0 }}
+        whileInView={{ opacity: 1 }}
+        viewport={{ once: true, amount: 0.2 }}
+        transition={{
+            duration: 0.8,
+            ease: [0.22, 1, 0.36, 1],
+        }}
+        className="w-full text-base sm:text-lg leading-8"
+    >
+
+        {/* Title */}
+        <h2 className="font-bold text-xl sm:text-2xl mb-8">
+            {AboutPageT("ProductTitle")}
+        </h2>
+
+        {/* Paragraph 1 */}
+        <p className="mb-7">
+            {AboutPageT("ProductParagraph1")}
+        </p>
+
+        {/* Paragraph 2 */}
+        <p className="mb-7">
+            {AboutPageT("ProductParagraph2")}
+        </p>
+
+        {/* Paragraph 3 */}
+        <p className="mb-7">
+            {AboutPageT("ProductParagraph3")}
+        </p>
+
+        {/* Quote */}
+        <p className="font-bold mt-8">
+            {AboutPageT("ProductQuote")}
+        </p>
+
+    </motion.div>
+</div>
         </div>
     );
 }

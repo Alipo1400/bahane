@@ -53,8 +53,16 @@
     "JobPosition": "Genel Müdür",
     "NameManager": "Ruhollah Jabraeili",
     "TextManager1": "Amadeh Paz, Bahaneh ve Mehran markalarıyla faaliyet gösteren Hazır Gıda Ürünleri Grubu, Tahran İl Sanayi ve Maden Müdürlüğü'nden gıda üretim fabrikası kurulması için gerekli ön onayı alarak 1989 yılında faaliyetlerine başlamıştır. Fabrika 1994 yılında tamamen faaliyete geçmiştir.",
-    "ProductPart": "Amadeh Paz, Bahaneh ve Mehran markalarıyla faaliyet gösteren Hazır Gıda Ürünleri Grubu, 1989 yılında faaliyetlerine başlamış ve 1994 yılında fabrikasını tamamen faaliyete geçirmiştir. Grup, İran tüketicilerinin damak zevkine uygun yüksek kaliteli ürünler sunmaya başlamış ve İran ailelerinin güvenilir bir markası olmuştur. Yerel ve uluslararası pazarlara girdikten sonra üretim, sağlık ve standart sertifikaları dahil olmak üzere gerekli lisans ve belgeleri başarıyla almıştır.",
-    "TextManager2": "Şirket, İran tüketicilerinin damak zevkine ve ihtiyaçlarına uygun yüksek kaliteli ürünler sunmaya başlamış ve her zaman İran ailelerinin güvenilir bir markası olmuştur. Yerel ve uluslararası pazarlara girişinin ardından ürünleri için gerekli üretim, sağlık ve standart sertifikalarını başarıyla almıştır."
+"ProductTitle": "Behaneh ve Mehran Hazır Gıda Üretim Grubu",
+
+"ProductParagraph1": "Behaneh ve Mehran markaları altında faaliyet gösteren hazır gıda üretim grubu, otuz yılı aşkın deneyimiyle ülkenin gıda sektörünün köklü üreticilerinden biridir.",
+
+"ProductParagraph2": "Grup faaliyetlerine 1989 yılında başlamış, fabrikası ise 1994 yılında faaliyete geçmiştir. Günümüzde grup; deneyimi, uzmanlık bilgisi ve yüksek kaliteli hammaddelere dayanan üretim anlayışıyla, tüketicilerin damak zevkine ve ihtiyaçlarına uygun 100’den fazla gıda ürünü üretmekte ve sunmaktadır.",
+
+"ProductParagraph3": "Kalite ve hijyen standartlarına uyum, ilgili izin ve ruhsatların alınması ve ürünlerin sürekli olarak geliştirilmesi, grubun yerel ve uluslararası pazarlarda güçlü bir konuma ulaşmasına katkı sağlamıştır.",
+
+"ProductQuote": "Müşterilerimizin güveni en büyük sermayemiz, kalite ise değişmez taahhüdümüzdür.", 
+   "TextManager2": "Şirket, İran tüketicilerinin damak zevkine ve ihtiyaçlarına uygun yüksek kaliteli ürünler sunmaya başlamış ve her zaman İran ailelerinin güvenilir bir markası olmuştur. Yerel ve uluslararası pazarlara girişinin ardından ürünleri için gerekli üretim, sağlık ve standart sertifikalarını başarıyla almıştır."
   },
   "Category": {
     "Pickles": "Turşular",

@@ -53,8 +53,16 @@
     "JobPosition": "CEO",
     "NameManager": "Rouhollah Jabraeili",
     "TextManager1": "The Ready-to-Eat Food Products Group, operating under the brands Amadeh Paz, Bahaneh, and Mehran, began its activities in 1989 after obtaining the initial approval from the Tehran Provincial Department of Industry and Mines to establish a food production factory. The factory became fully operational in 1994.",
-    "ProductPart": "The Ready-to-Eat Food Products Group, operating under the brands Amadeh Paz, Bahaneh, and Mehran, began its activities in 1989 after obtaining the initial approval from the Tehran Provincial Department of Industry and Mines to establish a food production factory. The factory became fully operational in 1994 and began supplying customers with high-quality products tailored to Iranian tastes. As a trusted companion to Iranian families, the group successfully entered domestic and international markets and obtained licenses and certifications including production, health, and standard approvals for its products.",
-    "TextManager2": "The company began supplying customers with high-quality products tailored to Iranian tastes and has always been a trusted companion to Iranian families. Through entering domestic and international markets, it has successfully obtained production, health, and standard certifications for its products."
+    "TextManager2": "The company began supplying customers with high-quality products tailored to Iranian tastes and has always been a trusted companion to Iranian families. Through entering domestic and international markets, it has successfully obtained production, health, and standard certifications for its products.",
+    "ProductTitle": "Behaneh & Mehran Ready-to-Eat Food Production Group",
+
+"ProductParagraph1": "The Behaneh & Mehran Ready-to-Eat Food Production Group, operating under the brands Behaneh and Mehran, is one of the established companies in the country's food industry, with more than three decades of experience.",
+
+"ProductParagraph2": "The group began its operations in 1989, and its factory commenced production in 1994. Today, drawing on extensive experience, specialized expertise, and high-quality raw materials, the group produces and supplies more than 100 food products designed to meet the tastes and needs of consumers.",
+
+"ProductParagraph3": "Compliance with quality and food safety standards, obtaining the relevant licenses, and continuously developing its product portfolio have enabled the group to establish a strong presence in both domestic and international markets.",
+
+"ProductQuote": "Our customers’ trust is our greatest asset, and quality is our everlasting commitment."
   },
   "Category": {
     "Pickles": "Pickles",
