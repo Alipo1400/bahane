@@ -62,20 +62,28 @@
     "Pastes": "معجون الطماطم",
     "Canned": "الأطعمة المعلبة"
   },
-  "Product": {
+ "Product": {
     "PintoBeans": "الفاصوليا المعلبة",
     "SweetCorn": "الذرة الحلوة المعلبة",
     "Peas": "البازلاء الخضراء المعلبة",
     "CannedMushrooms": "الفطر المعلب",
     "CannedLentils": "العدس المعلب",
     "CannedChickpeas": "الحمص المعلب",
+
     "StrawberryJam": "مربى الفراولة",
-    "CherryJam": "مربى الكرز الحامض",
-    "SourCherryJam": "مربى الكرز",
+  "CherryJam": "مربى الكرز",
+"SourCherryJam": "مربى الكرز الحامض",
+    "ApricotJam": "مربى المشمش",
+    "RoseJam": "مربى الورد",
+    "FigJam": "مربى التين",
+    "QuinceJam": "مربى السفرجل",
+    "CarrotJam": "مربى الجزر",
+    "RaspberryJam": "مربى التوت العليق",
+
     "PickledOlives": "الزيتون المخلل",
     "PickledCucumber": "الخيار المخلل",
     "PickledCabbage": "الملفوف المخلل"
-  },
+},
   "CountPlusNumber": {
     "TitleCompanies": "الشركات الشريكة",
     "DisCompanies": "التعاون مع المؤسسات الموثوقة",

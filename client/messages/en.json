@@ -62,20 +62,28 @@
     "Pastes": "Tomato Pastes",
     "Canned": "Canned Foods"
   },
-  "Product": {
+ "Product": {
     "PintoBeans": "Canned Pinto Beans",
     "SweetCorn": "Canned Sweet Corn",
     "Peas": "Canned Green Peas",
     "CannedMushrooms": "Canned Mushrooms",
     "CannedLentils": "Canned Lentils",
     "CannedChickpeas": "Canned Chickpeas",
+
     "StrawberryJam": "Strawberry Jam",
-    "CherryJam": "Sour Cherry Jam",
-    "SourCherryJam": "Cherry Jam",
+  "CherryJam": "Cherry Jam",
+"SourCherryJam": "Sour Cherry Jam",
+    "ApricotJam": "Apricot Jam",
+    "RoseJam": "Rose Jam",
+    "FigJam": "Fig Jam",
+    "QuinceJam": "Quince Jam",
+    "CarrotJam": "Carrot Jam",
+    "RaspberryJam": "Raspberry Jam",
+
     "PickledOlives": "Pickled Olives",
     "PickledCucumber": "Pickled Cucumbers",
     "PickledCabbage": "Pickled Cabbage"
-  },
+},
   "CountPlusNumber": {
     "TitleCompanies": "Partner Companies",
     "DisCompanies": "Working with trusted organizations",

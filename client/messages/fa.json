@@ -60,20 +60,28 @@
     "Pastes": "رب ها",
     "Canned": "کنسرو ها"
   },
-  "Product": {
+ "Product": {
     "PintoBeans": "کنسرو لوبیا",
     "SweetCorn": "کنسرو ذرت",
     "Peas": "کنسرو نخود فرنگی",
     "CannedMushrooms": "کنسرو قارچ",
     "CannedLentils": "کنسرو عدس",
     "CannedChickpeas": "کنسرو نخود",
+
     "StrawberryJam": "مربای توت فرنگی",
-    "CherryJam": "مربای آلبالو",
-    "SourCherryJam": "مربای گیلاس",
+    "CherryJam": "مربای گیلاس",
+"SourCherryJam": "مربای آلبالو",
+    "ApricotJam": "مربای زردآلو",
+    "RoseJam": "مربای گل",
+    "FigJam": "مربای انجیر",
+    "QuinceJam": "مربای به",
+    "CarrotJam": "مربای هویج",
+    "RaspberryJam": "مربای تمشک",
+
     "PickledOlives": "ترشی زیتون",
     "PickledCucumber": "ترشی خیار",
     "PickledCabbage": "ترشی کلم"
-  },
+},
   "CountPlusNumber": {
     "TitleCompanies": "شرکت های همکار",
     "DisCompanies": "همکاری با مجموعه‌های معتبر",

@@ -62,20 +62,28 @@
     "Pastes": "Salçalar",
     "Canned": "Konserve Ürünler"
   },
-  "Product": {
+"Product": {
     "PintoBeans": "Konserve Barbunya",
     "SweetCorn": "Konserve Tatlı Mısır",
     "Peas": "Konserve Bezelye",
     "CannedMushrooms": "Konserve Mantar",
     "CannedLentils": "Konserve Mercimek",
     "CannedChickpeas": "Konserve Nohut",
+
     "StrawberryJam": "Çilek Reçeli",
-    "CherryJam": "Vişne Reçeli",
-    "SourCherryJam": "Kiraz Reçeli",
+  "CherryJam": "Kiraz Reçeli",
+"SourCherryJam": "Vişne Reçeli",
+    "ApricotJam": "Kayısı Reçeli",
+    "RoseJam": "Gül Reçeli",
+    "FigJam": "İncir Reçeli",
+    "QuinceJam": "Ayva Reçeli",
+    "CarrotJam": "Havuç Reçeli",
+    "RaspberryJam": "Ahududu Reçeli",
+
     "PickledOlives": "Zeytin Turşusu",
     "PickledCucumber": "Salatalık Turşusu",
     "PickledCabbage": "Lahana Turşusu"
-  },
+},
   "CountPlusNumber": {
     "TitleCompanies": "İş Ortağı Şirketler",
     "DisCompanies": "Güvenilir kuruluşlarla iş birliği",

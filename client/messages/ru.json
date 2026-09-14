@@ -62,20 +62,28 @@
     "Pastes": "Томатные пасты",
     "Canned": "Консервированные продукты"
   },
-  "Product": {
+"Product": {
     "PintoBeans": "Консервированная фасоль",
     "SweetCorn": "Консервированная сладкая кукуруза",
     "Peas": "Консервированный зелёный горошек",
     "CannedMushrooms": "Консервированные грибы",
     "CannedLentils": "Консервированная чечевица",
     "CannedChickpeas": "Консервированный нут",
+
     "StrawberryJam": "Клубничное варенье",
-    "CherryJam": "Варенье из кислой вишни",
-    "SourCherryJam": "Вишнёвое варенье",
+  "CherryJam": "Вишнёвое варенье",
+"SourCherryJam": "Варенье из кислой вишни",
+    "ApricotJam": "Абрикосовое варенье",
+    "RoseJam": "Варенье из роз",
+    "FigJam": "Инжирное варенье",
+    "QuinceJam": "Айвовое варенье",
+    "CarrotJam": "Морковное варенье",
+    "RaspberryJam": "Малиновое варенье",
+
     "PickledOlives": "Маринованные оливки",
     "PickledCucumber": "Маринованные огурцы",
     "PickledCabbage": "Маринованная капуста"
-  },
+},
   "CountPlusNumber": {
     "TitleCompanies": "Компании-партнёры",
     "DisCompanies": "Сотрудничество с надёжными организациями",

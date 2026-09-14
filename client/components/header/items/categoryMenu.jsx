@@ -19,20 +19,59 @@ function CategoryMenu({ className = '' }) {
 
 
     const categories = {
-        pickles: [
-            { name: ProductT("PickledOlives"), image: "/probybg/1.png" },
-        ],
-        jams: [
-            { name: ProductT("StrawberryJam"), image: "/probybg/sourcherry.JPG" },
-        ],
-        canned: [
-            { name: ProductT("CannedChickpeas"), image: "/probybg/3.png" },
-            { name: ProductT("SweetCorn"), image: "/probybg/4.png" },
-             
+    pickles: [
+        {
+            name: ProductT("PickledOlives"),
+            image: "/probybg/1.png"
+        },
+    ],
 
-        ]
+ jams: [
+    {
+        name: ProductT("ApricotJam"),
+        image: "/probybg/apricotjam.JPG"
+    },
+    {
+        name: ProductT("RoseJam"),
+        image: "/probybg/roseflower.JPG"
+    },
+    {
+        name: ProductT("SourCherryJam"),
+        image: "/probybg/sourcherry.JPG"
+    },
+    {
+        name: ProductT("FigJam"),
+        image: "/probybg/figjam.JPG"
+    },
+    {
+        name: ProductT("QuinceJam"),
+        image: "/probybg/quincejam.JPG"
+    },
+    {
+        name: ProductT("CarrotJam"),
+        image: "/probybg/carrotjam.JPG"
+    },
+    {
+        name: ProductT("StrawberryJam"),
+        image: "/probybg/strawberryjam.JPG"
+    },
+    {
+        name: ProductT("RaspberryJam"),
+        image: "/probybg/raspberryjam.JPG"
     }
+],
 
+    canned: [
+        {
+            name: ProductT("CannedChickpeas"),
+            image: "/probybg/3.png"
+        },
+        {
+            name: ProductT("SweetCorn"),
+            image: "/probybg/4.png"
+        },
+    ]
+}
 
     useEffect(() => {
         let name = hash.replace("category_", "")
