@@ -28,12 +28,22 @@
     "PeasDescription": "These green peas are processed at the peak of freshness to preserve their beautiful green color and firm texture. Rich in vitamin C and iron, they are a quick and nutritious choice for pea soup, chicken dishes, béchamel sauce, or a simple salad."
   },
   "Footer": {
-    "CallFactory": "Factory Phone",
-    "ManaggerBussines": "Chief Commercial Manager",
-    "SellMangger": "Sales Manager",
-    "Address": "Address",
-    "AddressText": "Tehran, Robat Karim, Azadegan Boulevard, Mofatteh Street, No. 19",
-    "FallowUsInMedia": "Follow us on social media"
+    "GroupName": "Bahaneh Group",
+    "Description": "Producer of ready-to-eat and canned food products with a focus on quality, health, and customer satisfaction.",
+    "QuickLinks": "Quick Links",
+    "ContactUs": "Contact Us",
+    "CallFactory": "Call the Factory",
+    "BusinessManager": "Business Manager",
+    "SalesManager": "Sales Manager",
+    "OfficeAddress": "Office Address",
+    "AddressText": "Tehran, Robat Karim, Azadegan Blvd., Mofatteh St., No. 19",
+    "HereToHelp": "We are here to help",
+    "TrustCertification": "Trust & Certification",
+    "TrustText": "Customer trust and satisfaction are our greatest assets.",
+    "FollowUsInMedia": "Follow us on social media",
+    "QualitySlogan": "Quality, Commitment, Bahaneh",
+    "AllRightsReserved": "All rights reserved by Bahaneh Group.",
+    "BrandName": "Bahaneh"
   },
   "BlogPage": {
     "CannedMushroomsTitle": "Canned Mushrooms",

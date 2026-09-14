@@ -27,14 +27,26 @@
     "PeasSummary": "Mutfağınıza baharın lezzetini getiren yumuşak ve canlı yeşil bezelyeler",
     "PeasDescription": "Bu bezelyeler en taze dönemlerinde işlenerek güzel yeşil renklerini ve diri dokularını korur. C vitamini ve demir açısından zengindir. Bezelye çorbası, tavuk yemekleri, beşamel sos veya basit salatalar için hızlı ve besleyici bir seçenektir."
   },
+
   "Footer": {
-    "CallFactory": "Fabrika Telefonu",
-    "ManaggerBussines": "Ticari Genel Müdür",
-    "SellMangger": "Satış Müdürü",
-    "Address": "Adres",
+    "GroupName": "Bahaneh Üretim Grubu",
+    "Description": "Kalite, sağlık ve müşteri memnuniyetine odaklanan hazır ve konserve gıda ürünleri üreticisi.",
+    "QuickLinks": "Hızlı Bağlantılar",
+    "ContactUs": "Bize Ulaşın",
+    "CallFactory": "Fabrika ile iletişim",
+    "BusinessManager": "Ticaret Müdürü",
+    "SalesManager": "Satış Müdürü",
+    "OfficeAddress": "Ofis Adresi",
     "AddressText": "Tahran, Robat Karim, Azadegan Bulvarı, Mofatteh Caddesi, No: 19",
-    "FallowUsInMedia": "Bizi sosyal medyada takip edin"
-  },
+    "HereToHelp": "Size yardımcı olmak için buradayız",
+    "TrustCertification": "Lisanslar ve Güven",
+    "TrustText": "Müşteri güveni ve memnuniyeti en büyük değerimizdir.",
+    "FollowUsInMedia": "Bizi sosyal medyada takip edin",
+    "QualitySlogan": "Kalite, Bağlılık, Bahane",
+    "AllRightsReserved": "Tüm hakları Bahane Üretim Grubu'na aittir.",
+    "BrandName": "Bahaneh"
+  }
+,
   "BlogPage": {
     "CannedMushroomsTitle": "Konserve Mantar",
     "CannedMushroomsCaption": "Konserve mantar nasıl kullanılır?",
