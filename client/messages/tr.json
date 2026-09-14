@@ -52,7 +52,15 @@
   "AboutPage": {
     "JobPosition": "Genel Müdür",
     "NameManager": "Ruhollah Jabraeili",
-    "TextManager1": "Amadeh Paz, Bahaneh ve Mehran markalarıyla faaliyet gösteren Hazır Gıda Ürünleri Grubu, Tahran İl Sanayi ve Maden Müdürlüğü'nden gıda üretim fabrikası kurulması için gerekli ön onayı alarak 1989 yılında faaliyetlerine başlamıştır. Fabrika 1994 yılında tamamen faaliyete geçmiştir.",
+    "TextManager1Paragraph1": "Hazır Gıda Üretim Grubu, 1989 yılında İran damak zevkine uygun yüksek kaliteli gıda ürünleri üretme amacıyla faaliyetlerine başlamış ve gıda sektöründe otuz yılı aşkın deneyim kazanmıştır.",
+
+"TextManager1Paragraph2": "Müşterilerimizin güveni en değerli sermayemizdir. Kaliteyi koruyarak ve tüketicilerin ihtiyaçlarına önem vererek bu güvene layık olmak için her zaman çaba gösteriyoruz.",
+
+"TextManager2Title": "Vizyonumuz",
+
+"TextManager2Paragraph1": "Bugün deneyimimize, bilgimize ve çalışma arkadaşlarımızın yetkinliklerine dayanarak; kaliteyi sürekli geliştirme, ürün portföyümüzü genişletme ve yerel ve uluslararası pazarlardaki varlığımızı güçlendirme yolunda ilerliyoruz.",
+
+"TextManager2Paragraph2": "Amacımız, gıda sektöründe kalıcı bir marka oluşturmak ve kaliteyi, müşteri memnuniyetini ve güvenini ön planda tutan ürünler sunmaktır.",
 "ProductTitle": "Behaneh ve Mehran Hazır Gıda Üretim Grubu",
 
 "ProductParagraph1": "Behaneh ve Mehran markaları altında faaliyet gösteren hazır gıda üretim grubu, otuz yılı aşkın deneyimiyle ülkenin gıda sektörünün köklü üreticilerinden biridir.",

@@ -52,8 +52,15 @@
   "AboutPage": {
     "JobPosition": "CEO",
     "NameManager": "Rouhollah Jabraeili",
-    "TextManager1": "The Ready-to-Eat Food Products Group, operating under the brands Amadeh Paz, Bahaneh, and Mehran, began its activities in 1989 after obtaining the initial approval from the Tehran Provincial Department of Industry and Mines to establish a food production factory. The factory became fully operational in 1994.",
-    "TextManager2": "The company began supplying customers with high-quality products tailored to Iranian tastes and has always been a trusted companion to Iranian families. Through entering domestic and international markets, it has successfully obtained production, health, and standard certifications for its products.",
+    "TextManager1Paragraph1": "The Ready-to-Eat Food Production Group began its activities in 1989 with the aim of producing high-quality food products suited to Iranian tastes and has more than three decades of experience in the food industry.",
+
+"TextManager1Paragraph2": "Our customers’ trust is our most valuable asset, and we always strive to deserve this trust by maintaining quality and paying attention to consumers’ needs.",
+
+"TextManager2Title": "Our Vision",
+
+"TextManager2Paragraph1": "Today, relying on our experience, knowledge, and the capabilities of our colleagues, we are moving forward with a focus on continuously improving quality, expanding our product portfolio, and strengthening our presence in domestic and international markets.",
+
+"TextManager2Paragraph2": "Our goal is to build a lasting brand in the food industry and offer products that place quality, customer satisfaction, and trust at the forefront.",
     "ProductTitle": "Behaneh & Mehran Ready-to-Eat Food Production Group",
 
 "ProductParagraph1": "The Behaneh & Mehran Ready-to-Eat Food Production Group, operating under the brands Behaneh and Mehran, is one of the established companies in the country's food industry, with more than three decades of experience.",
