@@ -10,9 +10,9 @@ export default function Home() {
         <div className=" flex justify-center items-center w-full md:w-2/3 " >
           <div className=" w-full h-68 rounded-4xl overflow-hidden sm:h-96 " >
             <EventSlider banners={[
-              "/images/banner/b1.png",
-              "/images/banner/b2.jpg",
-              "/images/banner/b3.jpg"
+              "/images/banner/b1.JPEG",
+              "/images/banner/b2.JPEG",
+              
             ]} />
           </div>
           
